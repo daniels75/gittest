@@ -1,7 +1,8 @@
-AD2
+COMMIT1a
 <<<<<<< HEAD
-AB1
+COMMIT2bx1
 =======
-CD2
->>>>>>> Added CD2 line to the file
-
+COMMIT2bx2
+>>>>>>> added x2
+COMMIT3
+COMMIT5
